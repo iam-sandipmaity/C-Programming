@@ -1,2 +1,1 @@
-# c-programming#C-Programming
-# C-Programming
+# c-programming
